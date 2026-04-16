@@ -196,7 +196,7 @@ class x_center y_center width height
 
 ---
 
-## 🔥 可扩展（加分项）
+## 🔥 可扩展
 
 * ✅ 目标跟踪（ByteTrack / DeepSORT）
 * ✅ Web部署（Flask）
