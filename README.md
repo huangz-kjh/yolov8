@@ -73,7 +73,7 @@ Bounding Boxes + Classes
 
 ---
 
-## 🖼️ 效果展示（必须加🔥）
+## 🖼️ 效果展示
 
 ![train_batch0](https://github.com/user-attachments/assets/454c14bd-62bb-4703-a498-b8c0db4c2372)
 ![train_batch1](https://github.com/user-attachments/assets/86d7de26-4567-4986-be62-d795e16e2e80)
